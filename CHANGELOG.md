@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - The default [ESLint] config [Fooxly] uses for React projects
 
+[ESLint]: https://eslint.org/
 [Fooxly]: https://www.fooxly.com/
-[ESLint]: https://www.github.com/eslint/eslint
+
 [1.0.0]: https://github.com/Fooxly/eslint-config-react/releases/tag/v1.0.0

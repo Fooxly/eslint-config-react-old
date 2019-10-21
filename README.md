@@ -1,6 +1,6 @@
 # Fooxly ESLint Config for React
 
-The default [ESLint](https://www.github.com/eslint/eslint) config for [Fooxly](https://www.fooxly.com) projects using React.
+The default [ESLint](https://eslint.org/) config for [Fooxly](https://www.fooxly.com) projects using React.
 
 [![npm version](https://img.shields.io/npm/v/@fooxly/eslint-config-react.svg?style=flat)](https://www.npmjs.com/package/@fooxly/eslint-config-react)
 
