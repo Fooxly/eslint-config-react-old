@@ -4,12 +4,12 @@ import PropTypes from 'prop-types'
 export default class TestSorting extends Component {
   constructor (props) {
     super(props)
-    this.onClick = () => null
+    this.handleClick = () => null
   }
 
   render () {
     return (
-      <button title={this.props.title} onClick={this.onClick} />
+      <button title={this.props.title} onClick={this.handleClick} />
     )
   }
 }
