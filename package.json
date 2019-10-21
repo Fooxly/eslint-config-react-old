@@ -1,0 +1,46 @@
+{
+  "name": "@fooxly/eslint-config-react",
+  "version": "1.0.0",
+  "description": "The default ESLint config for Fooxly projects using React.",
+  "keywords": [
+    "fooxly",
+    "code",
+    "react",
+    "eslint",
+    "config",
+    "standard"
+  ],
+  "author": "Fooxly <hello@fooxly.com> (https://developers.fooxly.com)",
+  "homepage": "https://github.com/Fooxly/eslint-config-react",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fooxly/eslint-config-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Fooxly/eslint-config-react/issues",
+    "email": "bugs@fooxly.com"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "test": "eslint test/success && node test"
+  },
+  "dependencies": {
+    "eslint": ">=6.5.1",
+    "eslint-config-standard": ">=14.1.0",
+    "eslint-config-standard-react": ">=9.2.0",
+    "eslint-plugin-import": ">=2.18.2",
+    "eslint-plugin-node": ">=10.0.0",
+    "eslint-plugin-promise": ">=4.2.1",
+    "eslint-plugin-react": ">=7.16.0",
+    "eslint-plugin-react-hooks": ">=2.1.2",
+    "eslint-plugin-standard": ">=4.0.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "react": "^16.10.2"
+  }
+}
