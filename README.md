@@ -24,18 +24,15 @@ npm install --save-dev @fooxly/eslint-config-react
 yarn add -D @fooxly/eslint-config-react
 ```
 
-### using pnpm
-
-```sh
-pnpm add -D @fooxly/eslint-config-react
-```
-
 ## :triangular_ruler:&nbsp; Usage
+
+We recommend using [Babel's ESLint parser](https://github.com/babel/babel-eslint).
 
 ### using .eslintrc
 
 ```json
 {
+  "parser": "babel-eslint",
   "extends": ["@fooxly/eslint-config-react"]
 }
 ```
@@ -45,6 +42,7 @@ pnpm add -D @fooxly/eslint-config-react
 ```json
 ...
 "eslintConfig": {
+  "parser": "babel-eslint",
   "extends": ["@fooxly/eslint-config-react"]
 }
 ...
