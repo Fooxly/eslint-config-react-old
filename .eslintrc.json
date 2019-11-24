@@ -10,6 +10,8 @@
   "rules": {
     "react-hooks/rules-of-hooks": 2,
     "react-hooks/exhaustive-deps": 1,
+    "react/jsx-handler-names": 0,
+    "react/react-in-jsx-scope": 0,
     "react/sort-comp": [2, {
       "order": [
         "static-methods",
