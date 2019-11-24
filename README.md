@@ -103,5 +103,5 @@ Are you using this in one of your projects? Include one of these badges in your 
 [![js-fooxly-style](https://img.shields.io/badge/code%20style-fooxly-brightgreen)](https://www.npmjs.com/package/@fooxly/eslint-config-react)
 
 ```md
-[![js-fooxly-style](https://img.shields.io/badge/code%20style-fooxly-brightgreen)](https://www.npmjs.com/package/@fooxly/eslint-config-react
+[![js-fooxly-style](https://img.shields.io/badge/code%20style-fooxly-brightgreen)](https://www.npmjs.com/package/@fooxly/eslint-config-react)
 ```
