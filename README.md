@@ -4,6 +4,7 @@ The default [ESLint](https://eslint.org/) config for [Fooxly](https://www.fooxly
 
 [![npm version](https://img.shields.io/npm/v/@fooxly/eslint-config-react.svg?style=flat)](https://www.npmjs.com/package/@fooxly/eslint-config-react)
 [![downloads](https://img.shields.io/npm/dt/@fooxly/eslint-config-react.svg)](https://www.npmjs.com/package/@fooxly/eslint-config-react)
+[![js-fooxly-style](https://img.shields.io/badge/code%20style-fooxly-brightgreen)](https://www.npmjs.com/package/@fooxly/eslint-config-react)
 [![ci status](https://github.com/Fooxly/eslint-config-react/workflows/tests/badge.svg)](https://github.com/Fooxly/eslint-config-react/actions?query=workflow%3Atests)
 
 ## :rocket:&nbsp; Powered By
@@ -98,7 +99,7 @@ We also enforce the following order for methods and/or variables in a Class comp
 
 ## :label:&nbsp; Badge
 
-Are you using this in one of your projects? Include one of these badges in your README to let others know that your code is using the Fooxly code style.
+Are you using this in one of your projects? Include this badge in your README to let others know that your code is using the Fooxly code style.
 
 [![js-fooxly-style](https://img.shields.io/badge/code%20style-fooxly-brightgreen)](https://www.npmjs.com/package/@fooxly/eslint-config-react)
 
