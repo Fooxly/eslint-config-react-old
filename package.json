@@ -26,7 +26,7 @@
     "node": ">=10"
   },
   "scripts": {
-    "test": "eslint --parser babel-eslint test/success && node test"
+    "test": "eslint --parser babel-eslint --max-warnings 0 test/success && node test"
   },
   "dependencies": {
     "eslint": "^6.7.0",
